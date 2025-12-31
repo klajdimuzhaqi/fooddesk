@@ -1,0 +1,32 @@
+.card-img-top {
+    height: 200px;
+    object-fit: contain;
+}
+
+.card {
+    border-radius: 12px !important;
+}
+
+.coca-cola {
+    max-width: 80px;
+}
+
+.offer-images {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    padding: 20px;
+}
+
+.offer-images img {
+    width: 190px;
+    height: 160px;
+    object-fit: contain;
+}
+
+.card-img-topp {
+    height: 160px;
+    object-fit: contain;
+    margin: 23px;
+}

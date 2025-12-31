@@ -1,1 +1,1 @@
-Diten e pare krijova Login Page me bootstrap 5.
+Diten e pare krijova Login Page dhe Sign up Page me bootstrap 5.

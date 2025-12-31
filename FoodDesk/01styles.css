@@ -3,6 +3,11 @@
 }
 
 
+.container-fluid {
+    height: auto;
+}
+
+
 
 .a2a1 .my-custom-element {
     background-color: var(--bs-orange);
